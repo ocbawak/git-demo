@@ -10,7 +10,7 @@ git config --global user.email "MY_NAME@example.com"
 #Verify your configuration by displaying your configuration file:
 cat .git/config
 
-#verify your git configuration
+#verify your git configuratio
 (base) iphoneiphone@Iphones-MacBook-Pro git-demo % git config --global --list
 user.name=Cornilus Bawak
 user.email=ocbawak@gmail.com
