@@ -90,3 +90,10 @@ README.md
 (base) iphoneiphone@Iphones-MacBook-Pro git-demo % open README.md
 (base) iphoneiphone@Iphones-MacBook-Pro git-demo % open readme.md
 (base) iphoneiphone@Iphones-MacBook-Pro git-demo % 
+
+#Removing git files
+(base) iphoneiphone@Iphones-MacBook-Pro git-demo % git rm debug.log
+rm 'debug.log'
+(base) iphoneiphone@Iphones-MacBook-Pro git-demo % ls
+README.md
+(base) iphoneiphone@Iphones-MacBook-Pro git-demo % 
